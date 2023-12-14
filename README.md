@@ -1,5 +1,4 @@
-# ISPRS-Fire-Detection
-# DFAN (TIP2022)
+
 ## An Effective Attention-based CNN Model for Fire Detection in Adverse Weather Conditions
 
 This paper has been accepted to ISPRS Journal of Photogrammetry and Remote Sensing
