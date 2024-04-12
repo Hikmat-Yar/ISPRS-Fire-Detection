@@ -9,7 +9,7 @@ https://www.sciencedirect.com/science/article/pii/S0924271623002940
 ### 2 Datasets
 The datasets can be downloaded from the following links. We follow the training and testing data similar to the previous methods.
 
-Option 1: Download FD dataset from given link: [Click here](http://www.nnmtl.cn/EFDNet/)
+Option 1: Download FD dataset from given link: [Click here](https://ieeexplore.ieee.org/abstract/document/9171455)
 
 Option 2: The proposed DFAN dataset [Click here](https://drive.google.com/file/d/10z998vuTzkNJElZdsSDrbIDpRWJ4aZoo/view?usp=drive_link)
 
